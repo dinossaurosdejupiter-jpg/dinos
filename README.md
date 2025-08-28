@@ -1,0 +1,2 @@
+# dinos
+Faculdade e aprendizado
